@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=📊+Aspiring+Data+Analyst;🤖+AI+%26+Machine+Learning+Enthusiast;🐍+Python+•+SQL+•+Power+BI;🚀+Building+Data-Driven+Solutions;💡+Learning+Something+New+Every+Day"/>
 
 </div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:000000,50:00FF41,100:000000"/>
 ---
 # 👨‍💻 About Me
 
@@ -54,7 +54,6 @@ class NeerajMehta:
 
 
 ---
-![](https://github-readme-activity-graph.vercel.app/graph?username=neerajmehta012003-spec&theme=react-dark&bg_color=000000&color=00ff41&line=00ff41&point=ffffff)
 
 ---
 
