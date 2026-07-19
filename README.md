@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=📊+Aspiring+Data+Analyst;🤖+AI+%26+Machine+Learning+Enthusiast;🐍+Python+•+SQL+•+Power+BI;🚀+Building+Data-Driven+Solutions;💡+Learning+Something+New+Every+Day"/>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:000000,50:00FF41,100:000000&section=header"/>
-</p>
 ---
 # 👨‍💻 About Me
 
