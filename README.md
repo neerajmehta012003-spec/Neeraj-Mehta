@@ -5,9 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=📊+Aspiring+Data+Analyst;🤖+AI+%26+Machine+Learning+Enthusiast;🐍+Python+•+SQL+•+Power+BI;🚀+Building+Data-Driven+Solutions;💡+Learning+Something+New+Every+Day"/>
 
 </div>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41"/>
-</p>
+
 ---
 # 👨‍💻 About Me
 
@@ -30,7 +28,7 @@ class NeerajMehta:
         return "From Pixels to Predictions 📊"
 ```
 <p align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/213911167-1cb3df45-52e5-41df-8f0c-0e2b7d9cbac2.gif">
+<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 ---
 
