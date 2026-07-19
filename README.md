@@ -9,7 +9,6 @@
 
 <br><br>
 
-<img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmNWNlYWMyODNlYmQzMGdkb3k2ZXJrbDQzZzM3ZjJzdjgwM3d1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif"/>
 
 </div>
 🔭 **I’m currently working on**
@@ -59,6 +58,9 @@
 - 🎮 In my free time, you'll find me playing BGMI, Valorant, FIFA, or exploring the latest AI tools.
 - 🚀 My goal is to become a Data Analyst who leverages AI and Machine Learning to solve real-world business problems.
 
+  font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Neeraj+Mehta;Aspiring+Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Turning+Data+Into+Insights+%F0%9F%93%8A" />
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neeraj-mehta-895038216/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajmehta012003@gmail.com) 
@@ -83,7 +85,6 @@
 [![](https://komarev.com/ghpvc/?username=neerajmehta012003-spec&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Neeraj+Mehta;Aspiring+Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Turning+Data+Into+Insights+%F0%9F%93%8A" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
