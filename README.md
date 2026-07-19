@@ -10,6 +10,17 @@
 <p align="center">
   <b>📊 Aspiring Data Analyst | 🤖 AI/ML Enthusiast | 💻 Data Science Student</b>
 </p>
+
+> Initializing profile...
+
+✔ Loading Python...
+✔ Loading SQL...
+✔ Loading Machine Learning...
+✔ Loading Data Analytics...
+
+System Status: Ready to Solve Real-World Problems 🚀
+
+
 🔭 **I’m currently working on**
 - Data Analysis projects using Python, SQL, Excel, and Power BI
 - Machine Learning and AI applications
