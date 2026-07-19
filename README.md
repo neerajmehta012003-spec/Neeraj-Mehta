@@ -54,9 +54,7 @@ class NeerajMehta:
 
 
 ---
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=850&lines=Loading+Portfolio...;Loading+Projects...;Loading+Machine+Learning...;Loading+Data+Analytics...;Access+Granted+✓">
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=neerajmehta012003-spec&theme=react-dark&bg_color=000000&color=00ff41&line=00ff41&point=ffffff)
 
 ---
 
