@@ -5,6 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=📊+Aspiring+Data+Analyst;🤖+AI+%26+Machine+Learning+Enthusiast;🐍+Python+•+SQL+•+Power+BI;🚀+Building+Data-Driven+Solutions;💡+Learning+Something+New+Every+Day"/>
 
 ---
+
+---
+<div align="left">
 # 👨‍💻 About Me
 
 ```python
