@@ -1,17 +1,3 @@
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Debug();
-
-    DrinkCoffee();
-
-    Repeat();
-
-}
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:6A5ACD,100:8A2BE2&text=Neeraj%20Mehta&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚡%20From%20Pixels%20to%20Predictions%20⚡&descAlignY=60"/>
@@ -179,15 +165,6 @@ class NeerajMehta:
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 🚀 Goals for 2026
 
@@ -218,8 +195,6 @@ class NeerajMehta:
 📊 I enjoy uncovering stories hidden inside data.
 
 ♟ Chess helps me sharpen analytical thinking.
-
-🎮 Gamer • BGMI • Valorant • FIFA
 
 ☕ Coffee + Music + Python = Productivity
 
