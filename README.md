@@ -58,6 +58,8 @@ class NeerajMehta:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=850&lines=Loading+Portfolio...;Loading+Projects...;Loading+Machine+Learning...;Loading+Data+Analytics...;Access+Granted+✓">
 </p>
 
+---
+
 # 🛠 Tech Stack
 
 ### Programming
