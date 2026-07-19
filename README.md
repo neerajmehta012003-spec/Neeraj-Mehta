@@ -1,4 +1,53 @@
-# Neeraj-Mehta
+# Hi my name is Neeraj-Mehta
+
+🔭 **I’m currently working on**
+- Data Analysis projects using Python, SQL, Excel, and Power BI
+- Machine Learning and AI applications
+- Exploratory Data Analysis (EDA) and interactive dashboards
+- Building an impressive GitHub portfolio with real-world datasets
+
+👯 **I’m looking to collaborate on**
+- Data Analytics & Business Intelligence projects
+- Open Source AI/ML projects
+- Data Visualization dashboards
+- Python automation and data-driven applications
+
+🤝**I’m looking for help with**
+- Advanced Data Analytics
+- Machine Learning & Deep Learning
+- MLOps and Cloud Technologies
+- Open Source contributions and Kaggle competitions
+
+🌱**I’m currently learning**
+- M.Sc. in Data Science & AI/ML Engineering (Woolf University)
+- Data Analytics
+- Machine Learning & Deep Learning
+- SQL, Python, Power BI & Tableau
+- Statistics and Predictive Analytics
+
+💼 **Career Goal**
+- Aspiring Data Analyst with a strong foundation in AI, Machine Learning, and Data Visualization.
+- Passionate about transforming raw data into actionable business insights and helping organizations make data-driven decisions.
+
+💬 **Ask me about**
+- Data Analysis
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Data Annotation
+- CorelDRAW & Photoshop
+- Git & GitHub
+
+⚡ **Fun fact**
+- 🎨 I started my career as a Freelance Graphic Designer and discovered my passion for solving problems with data.
+- 📊 I enjoy turning messy datasets into meaningful insights and interactive dashboards.
+- 🤖 I'm passionate about AI, automation, and building practical machine learning solutions.
+- ♟️ I enjoy playing Chess to sharpen my analytical thinking.
+- 🎮 In my free time, you'll find me playing BGMI, Valorant, FIFA, or exploring the latest AI tools.
+- 🚀 My goal is to become a Data Analyst who leverages AI and Machine Learning to solve real-world business problems.
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neeraj-mehta-895038216/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajmehta012003@gmail.com) 
