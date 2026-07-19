@@ -12,11 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2b9a4e4f-5d9b-4b38-8d77-4c66d6f8aef1.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/216655810-c4cb7d5e-7b4b-45c6-b65d-8b7d3cb7d5f2.gif" width="100%">
 </p>
-
-System Status: Ready to Solve Real-World Problems 🚀
-
 
 🔭 **I’m currently working on**
 - Data Analysis projects using Python, SQL, Excel, and Power BI
