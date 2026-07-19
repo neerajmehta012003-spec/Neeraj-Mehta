@@ -1,3 +1,17 @@
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Debug();
+
+    DrinkCoffee();
+
+    Repeat();
+
+}
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:6A5ACD,100:8A2BE2&text=Neeraj%20Mehta&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚡%20From%20Pixels%20to%20Predictions%20⚡&descAlignY=60"/>
