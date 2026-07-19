@@ -1,15 +1,3 @@
-<h1 align="center">
-  <span style="color:#00C9FF;">⚡ Neeraj Mehta</span>
-</h1>
-
-<h3 align="center">
-  🚀 From <span style="color:#FFB347;">Pixels</span> to
-  <span style="color:#00E5FF;">Predictions</span>
-</h3>
-
-<p align="center">
-  <b>📊 Aspiring Data Analyst | 🤖 AI/ML Enthusiast | 💻 Data Science Student</b>
-</p>
 
 <div align="center">
 
