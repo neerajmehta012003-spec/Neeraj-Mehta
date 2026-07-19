@@ -27,7 +27,13 @@ class NeerajMehta:
     def life_motto(self):
         return "From Pixels to Predictions 📊"
 ```
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,30:003300,60:00FF41,100:000000&text=NEERAJ%20MEHTA&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=THE%20MATRIX%20HAS%20YOU...%20FOLLOW%20THE%20DATA&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=950&lines=%24+sudo+initialize+matrix.sh;Loading+Python+Modules...;Connecting+SQL+Database...;Initializing+Machine+Learning...;Power+BI+Dashboard+Loaded...;AI+Core+Activated...;Access+Granted+✓"/>
+
+</div>
 ---
 
 # 🚀 My Journey
@@ -143,16 +149,6 @@ class NeerajMehta:
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
 
 </p>
 
