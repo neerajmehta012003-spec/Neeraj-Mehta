@@ -7,10 +7,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Insights+📊;Building+AI+Solutions+🤖;Python+•+SQL+•+Power+BI+•+Machine+Learning;Always+Learning+Something+New+🚀"/>
 
-<br><br>
 
 
-</div>
 🔭 **I’m currently working on**
 - Data Analysis projects using Python, SQL, Excel, and Power BI
 - Machine Learning and AI applications
