@@ -9,36 +9,36 @@
 
 
 
-🔭 **I’m currently working on**
+🔭 I’m currently working on
 - Data Analysis projects using Python, SQL, Excel, and Power BI
 - Machine Learning and AI applications
 - Exploratory Data Analysis (EDA) and interactive dashboards
 - Building an impressive GitHub portfolio with real-world datasets
 
-👯 **I’m looking to collaborate on**
+👯 I’m looking to collaborate on
 - Data Analytics & Business Intelligence projects
 - Open Source AI/ML projects
 - Data Visualization dashboards
 - Python automation and data-driven applications
 
-🤝**I’m looking for help with**
+🤝 I’m looking for help with
 - Advanced Data Analytics
 - Machine Learning & Deep Learning
 - MLOps and Cloud Technologies
 - Open Source contributions and Kaggle competitions
 
-🌱**I’m currently learning**
+🌱 I’m currently learning
 - M.Sc. in Data Science & AI/ML Engineering (Woolf University)
 - Data Analytics
 - Machine Learning & Deep Learning
 - SQL, Python, Power BI & Tableau
 - Statistics and Predictive Analytics
 
-💼 **Career Goal**
+💼 Career Goal
 - Aspiring Data Analyst with a strong foundation in AI, Machine Learning, and Data Visualization.
 - Passionate about transforming raw data into actionable business insights and helping organizations make data-driven decisions.
 
-💬 **Ask me about**
+💬 Ask me about
 - Data Analysis
 - Python
 - SQL
@@ -48,14 +48,13 @@
 - CorelDRAW & Photoshop
 - Git & GitHub
 
-⚡ **Fun fact**
+⚡ Fun fact
 - 🎨 I started my career as a Freelance Graphic Designer and discovered my passion for solving problems with data.
 - 📊 I enjoy turning messy datasets into meaningful insights and interactive dashboards.
 - 🤖 I'm passionate about AI, automation, and building practical machine learning solutions.
 - ♟️ I enjoy playing Chess to sharpen my analytical thinking.
 - 🎮 In my free time, you'll find me playing BGMI, Valorant, FIFA, or exploring the latest AI tools.
 - 🚀 My goal is to become a Data Analyst who leverages AI and Machine Learning to solve real-world business problems.
-
   font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Neeraj+Mehta;Aspiring+Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Turning+Data+Into+Insights+%F0%9F%93%8A" />
 </p>
 
