@@ -11,10 +11,19 @@
   <b>📊 Aspiring Data Analyst | 🤖 AI/ML Enthusiast | 💻 Data Science Student</b>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655810-c4cb7d5e-7b4b-45c6-b65d-8b7d3cb7d5f2.gif" width="100%">
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:6A5ACD,100:8A2BE2&text=Neeraj%20Mehta&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=📊%20Data%20Analyst%20|%20🤖%20AI/ML%20Enthusiast%20|%20🚀%20From%20Pixels%20to%20Predictions&descAlignY=58"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Insights+📊;Building+AI+Solutions+🤖;Python+•+SQL+•+Power+BI+•+Machine+Learning;Always+Learning+Something+New+🚀"/>
+
+<br><br>
+
+<img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmNWNlYWMyODNlYmQzMGdkb3k2ZXJrbDQzZzM3ZjJzdjgwM3d1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif"/>
+
+</div>
 🔭 **I’m currently working on**
 - Data Analysis projects using Python, SQL, Excel, and Power BI
 - Machine Learning and AI applications
