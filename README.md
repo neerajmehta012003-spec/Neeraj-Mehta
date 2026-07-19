@@ -1,5 +1,9 @@
 # Hi my name is Neeraj-Mehta
 
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
+
 🔭 **I’m currently working on**
 - Data Analysis projects using Python, SQL, Excel, and Power BI
 - Machine Learning and AI applications
@@ -47,7 +51,6 @@
 - 🎮 In my free time, you'll find me playing BGMI, Valorant, FIFA, or exploring the latest AI tools.
 - 🚀 My goal is to become a Data Analyst who leverages AI and Machine Learning to solve real-world business problems.
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neeraj-mehta-895038216/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajmehta012003@gmail.com) 
@@ -70,5 +73,9 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=neerajmehta012003-spec&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Neeraj+Mehta;Aspiring+Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Turning+Data+Into+Insights+%F0%9F%93%8A" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
