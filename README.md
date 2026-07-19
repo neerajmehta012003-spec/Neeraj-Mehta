@@ -7,13 +7,6 @@
 </div>
 
 ---
-
-<p align="center">
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
-
----
-
 # 👨‍💻 About Me
 
 ```python
