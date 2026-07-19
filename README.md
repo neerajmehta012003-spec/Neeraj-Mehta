@@ -1,63 +1,225 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:6A5ACD,100:8A2BE2&text=Neeraj%20Mehta&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=📊%20Data%20Analyst%20|%20🤖%20AI/ML%20Enthusiast%20|%20🚀%20From%20Pixels%20to%20Predictions&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:6A5ACD,100:8A2BE2&text=Neeraj%20Mehta&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚡%20From%20Pixels%20to%20Predictions%20⚡&descAlignY=60"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=📊+Aspiring+Data+Analyst;🤖+AI+%26+Machine+Learning+Enthusiast;🐍+Python+•+SQL+•+Power+BI;🚀+Building+Data-Driven+Solutions;💡+Learning+Something+New+Every+Day"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Insights+📊;Building+AI+Solutions+🤖;Python+•+SQL+•+Power+BI+•+Machine+Learning;Always+Learning+Something+New+🚀"/>
+</div>
 
-<br>
+---
 
-🔭 I’m currently working on
-- Data Analysis projects using Python, SQL, Excel, and Power BI
-- Machine Learning and AI applications
-- Exploratory Data Analysis (EDA) and interactive dashboards
-- Building an impressive GitHub portfolio with real-world datasets
-
-👯 I’m looking to collaborate on
-- Data Analytics & Business Intelligence projects
-- Open Source AI/ML projects
-- Data Visualization dashboards
-- Python automation and data-driven applications
-
-🤝 I’m looking for help with
-- Advanced Data Analytics
-- Machine Learning & Deep Learning
-- MLOps and Cloud Technologies
-- Open Source contributions and Kaggle competitions
-
-🌱 I’m currently learning
-- M.Sc. in Data Science & AI/ML Engineering (Woolf University)
-- Data Analytics
-- Machine Learning & Deep Learning
-- SQL, Python, Power BI & Tableau
-- Statistics and Predictive Analytics
-
-💼 Career Goal
-- Aspiring Data Analyst with a strong foundation in AI, Machine Learning, and Data Visualization.
-- Passionate about transforming raw data into actionable business insights and helping organizations make data-driven decisions.
-
-💬 Ask me about
-- Data Analysis
-- Python
-- SQL
-- Power BI
-- Machine Learning
-- Data Annotation
-- CorelDRAW & Photoshop
-- Git & GitHub
-
-⚡ Fun fact
-- 🎨 I started my career as a Freelance Graphic Designer and discovered my passion for solving problems with data.
-- 📊 I enjoy turning messy datasets into meaningful insights and interactive dashboards.
-- 🤖 I'm passionate about AI, automation, and building practical machine learning solutions.
-- ♟️ I enjoy playing Chess to sharpen my analytical thinking.
-- 🎮 In my free time, you'll find me playing BGMI, Valorant, FIFA, or exploring the latest AI tools.
-- 🚀 My goal is to become a Data Analyst who leverages AI and Machine Learning to solve real-world business problems.
-
-  font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Neeraj+Mehta;Aspiring+Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Turning+Data+Into+Insights+%F0%9F%93%8A" />
+<p align="center">
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
+
+---
+
+# 👨‍💻 About Me
+
+```python
+class NeerajMehta:
+
+    def __init__(self):
+        self.role = "Aspiring Data Analyst"
+        self.education = "M.Sc. Data Science & AI/ML Engineering"
+        self.background = "Freelance Graphic Designer"
+        self.current_focus = [
+            "Data Analytics",
+            "Machine Learning",
+            "Power BI",
+            "SQL",
+            "Python"
+        ]
+
+    def life_motto(self):
+        return "From Pixels to Predictions 📊"
+```
+
+---
+
+# 🚀 My Journey
+
+🎨 **Freelance Graphic Designer** (3+ Years)
+
+⬇️
+
+🖼️ **Data Annotation & AI Training**
+
+⬇️
+
+🎓 **M.Sc. Data Science & AI/ML Engineering**
+
+⬇️
+
+📊 **Aspiring Data Analyst**
+
+⬇️
+
+🤖 **Future AI Engineer**
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+</p>
+
+### Data Analytics
+
+- 📊 Power BI
+- 📈 Tableau
+- 📉 Excel
+- 🐼 Pandas
+- 🔢 NumPy
+- 📊 Matplotlib
+
+### AI / Machine Learning
+
+- 🤖 Scikit-Learn
+- 🧠 TensorFlow *(Learning)*
+- 👁️ Computer Vision
+- 📊 Exploratory Data Analysis
+
+### Design
+
+🎨 CorelDRAW
+
+🖌 Adobe Photoshop
+
+---
+
+# 📊 Currently Working On
+
+✔ Data Analytics Projects
+
+✔ Machine Learning Models
+
+✔ SQL Portfolio
+
+✔ Power BI Dashboards
+
+✔ Kaggle Challenges
+
+✔ Open Source Projects
+
+---
+
+# 🌱 Currently Learning
+
+```text
+██████████░░░░░░░░░░  Python
+
+████████░░░░░░░░░░░░  SQL
+
+███████░░░░░░░░░░░░░  Power BI
+
+██████░░░░░░░░░░░░░░  Machine Learning
+
+█████░░░░░░░░░░░░░░░  Deep Learning
+```
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 Goals for 2026
+
+🎯 Build **50+ Data Analytics Projects**
+
+🏆 Participate in **Kaggle Competitions**
+
+📊 Master **Power BI**
+
+🤖 Build End-to-End AI Projects
+
+🌍 Contribute to Open Source
+
+💼 Land a Data Analyst Role
+
+---
+
+# 💡 Quote of the Day
+
+> **"Data is the new oil, but insights are the real fuel."**
+
+---
+
+# ⚡ Fun Facts
+
+🎨 I began my journey as a Graphic Designer before moving into Data Science.
+
+📊 I enjoy uncovering stories hidden inside data.
+
+♟ Chess helps me sharpen analytical thinking.
+
+🎮 Gamer • BGMI • Valorant • FIFA
+
+☕ Coffee + Music + Python = Productivity
+
+🌌 Fascinated by AI and the future of intelligent systems.
+
+---
+
+
+### ⭐ "Transforming Data into Insights, One Project at a Time."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00C9FF,100:8A2BE2&section=footer"/>
+
+</div>
 
 
 ## 🌐 Socials:
