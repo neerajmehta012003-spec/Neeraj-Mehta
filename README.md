@@ -1,8 +1,15 @@
-<h1 align="center">🤖 Training Models. Analyzing Data. Building the Future.</h1>
-<p align="center">
-<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
+<h1 align="center">
+  <span style="color:#00C9FF;">⚡ Neeraj Mehta</span>
+</h1>
 
+<h3 align="center">
+  🚀 From <span style="color:#FFB347;">Pixels</span> to
+  <span style="color:#00E5FF;">Predictions</span>
+</h3>
+
+<p align="center">
+  <b>📊 Aspiring Data Analyst | 🤖 AI/ML Enthusiast | 💻 Data Science Student</b>
+</p>
 🔭 **I’m currently working on**
 - Data Analysis projects using Python, SQL, Excel, and Power BI
 - Machine Learning and AI applications
