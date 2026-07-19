@@ -27,13 +27,9 @@ class NeerajMehta:
     def life_motto(self):
         return "From Pixels to Predictions 📊"
 ```
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,30:003300,60:00FF41,100:000000&text=NEERAJ%20MEHTA&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=THE%20MATRIX%20HAS%20YOU...%20FOLLOW%20THE%20DATA&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=950&lines=%24+sudo+initialize+matrix.sh;Loading+Python+Modules...;Connecting+SQL+Database...;Initializing+Machine+Learning...;Power+BI+Dashboard+Loaded...;AI+Core+Activated...;Access+Granted+✓"/>
-
-</div>
+<p align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/213911167-1cb3df45-52e5-41df-8f0c-0e2b7d9cbac2.gif">
+</p>
 ---
 
 # 🚀 My Journey
@@ -191,20 +187,20 @@ class NeerajMehta:
 
 ---
 
-# 🌍 Let's Connect
+## 🌐 CONNECT WITH ME
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/neeraj-mehta-895038216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="mailto:neerajmehta012003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/neerajmehta012003-spec" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 </p>
